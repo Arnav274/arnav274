@@ -2,7 +2,7 @@
 
 What I actually like is being in the middle of a problem: sitting with someone who has a vague idea, turning it into something buildable, then making sure it gets built. At Reg-X Innovations that meant writing the requirements and architecture spec for a fintech client's AI ticketing platform, then staying on to help build it. Outside of that: an EV charging app that ranks stations using real scheduling algorithms, an object detector that runs entirely in the browser, a hazard-reporting map for a township that didn't have one.
 
-BSc Computer Science (2:1), University of East Anglia.
+BSc Computer Science (1st), University of East Anglia.
 
 <br/>
 
